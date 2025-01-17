@@ -1,6 +1,6 @@
 # USA Reverse Phone Lookup
 
-![image](https://raw.githubusercontent.com/alexrony21/USA-Reverse-Phone-Lookup/refs/heads/main/Reverse_Phone_Lookup.png)
+![image]()
 
 This software allows you to perform a reverse phone lookup for the **USA Only**, providing the following details:
 
