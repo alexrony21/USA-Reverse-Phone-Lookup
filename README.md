@@ -12,7 +12,6 @@ This software allows you to perform a reverse phone lookup for the **USA Only**,
 5. **Get State**
 6. **Get Zip Code**
 7. **Get Birth Year**
-8. **Get Gender**
 
 ## Contact:
 If you have any queries or want to purchase this software, you can reach out to me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
